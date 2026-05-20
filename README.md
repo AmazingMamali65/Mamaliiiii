@@ -2,7 +2,7 @@
 
 <h2> Hi, I'm Sombrata Satpathy! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"><img align='left' src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="60" alt="Animated hello">
-<p><em> THIRD YEAR Student at <a href="http:/https://www.srmist.edu.in/">SRM INSTITUTE OF SCIENCE AND TECHNOLOGY</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>CURRENTLY LEARNING ML:)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em> B Tech <a href="http:/https://www.srmist.edu.in/">SRM INSTITUTE OF SCIENCE AND TECHNOLOGY</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>CURRENTLY LEARNING ML:)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Sombrata Satpathy](https://img.shields.io/twitter/follow/SombrataSatpathy?style=social)]()
